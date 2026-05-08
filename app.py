@@ -28,7 +28,7 @@ UPLOAD_DIR = os.path.join(os.path.dirname(__file__), "uploads")
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_ttl="DNA & RNA Analyzer",
+    page_teitl="DNA & RNA Analyzer",
     page_icon="🧬",
     layout_size="wide",
     initial_sidebar_state="expanded",
